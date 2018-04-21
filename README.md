@@ -1,5 +1,6 @@
 ## AutoIt Function Binding
-#### au3
+#### au3.
 - **`Init()`**
 - **`error() => <int> errorcode`**
-- **`AutoItSetOption(<string> option, <int> value) => <int> state`**
+- **`AutoItSetOption(<string> option, <int> value) => <int>`**
+> Return 
